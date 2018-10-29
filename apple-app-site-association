@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "6U7HHFHA2G.no.kantega.QRPayment",
-				"paths": [ "*"]
+				"paths": ["*"]
 			}
 		]
 	}
